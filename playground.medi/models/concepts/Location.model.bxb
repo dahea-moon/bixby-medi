@@ -1,0 +1,4 @@
+structure (Location) {
+  description (경도 위도 위치)
+  role-of (geo.GeoPoint)
+}

@@ -1,0 +1,15 @@
+capsule-info {
+  display-name (메디(MEDI))
+  developer-name (SOL_MOON)
+  icon-asset (img/heartbeat.jpg)
+  dispatch-name (메디)
+  search-keywords {
+    keyword (약국)
+    keyword (병원)
+    keyword (수유실)
+    keyword (AED)
+    keyword (심장제세기)
+  }
+  privacy-policy-url (http://bixby-medi.herokuapp.com/privacy/)
+  description ("가까이 있는 병원과 약국, 수유실, 심장제세기를 찾아보세요")
+}

@@ -1,0 +1,24 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (searchNearest) {
+      accepted-inputs (curlocation, where)
+      local-endpoint ("searchNearest.js")
+    }
+    action-endpoint (searchBasedonDestination) {
+      accepted-inputs (destination, where)
+      local-endpoint ("searchBasedonDestination.js")
+    }
+    action-endpoint (searchBasedonDestinationTime) {
+      accepted-inputs (destination, where, dateTimeExpression)
+      local-endpoint ("searchBasedonDestinationTime.js")
+    }
+    action-endpoint (searchBasedonDestinationWeekday) {
+      accepted-inputs (destination, where, weekday)
+      local-endpoint ("searchBasedonDestination.js")
+    }
+    action-endpoint (selectPlace) {
+      accepted-inputs (place)
+      local-endpoint ("selectPlace.js")
+    }
+  }
+}
