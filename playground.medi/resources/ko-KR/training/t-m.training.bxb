@@ -1,0 +1,10 @@
+train (t-m7fkvt252tfxpzb3mcyux445h) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (개포동역)[v:viv.geo.PlaceName] (신경외과)[v:halfpunchduo.medi.Where:신경외과] 찾아줄래")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577545221714)
+}
+train (t-mrb0bmrjmhmp0b66swdbximdj) {
+  utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 알려주겠니")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577536624750)
+}

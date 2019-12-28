@@ -1,8 +1,17 @@
 result-view {
 	match: Nearests (this)
 	
-	message (자세히 알고싶은 기관을 선택해주세요)
-	
+	message {
+    if (size(this) > 1) {
+      template (자세히 알고싶은 기관을 선택해주세요.)
+    } else-if (size(this) == 1) {
+      template (결과를 확인하세요.)
+    } else {
+      template (조건에 맞는 기관을 찾을 수 없어요.)
+    }
+      
+  }
+  
 	render {
     if (size(this) > 1) {
     list-of (this) {
@@ -20,8 +29,6 @@ result-view {
           expression (this)
         }
       }
-    } else {
-      nothing
     }
 	}
 }

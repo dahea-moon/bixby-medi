@@ -1,0 +1,10 @@
+train (t-ad18nzqdmx1frqfpaijwtax4u) {
+  utterance ("[g:searchBasedonDestination] (숭실대입구역)[v:geo.PlaceName] (가정의학과)[v:Where:가정의학과] 알려줄래")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577543199400)
+}
+train (t-aqg64oe1jwi72rwinlj84wlmh) {
+  utterance ("[g:searchBasedonDestinationTime] (오늘 저녁 8시)[v:time.DateTimeExpression] (삼성역)[v:geo.PlaceName] (정형외과)[v:Where:정형외과] 알려줄래")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577537492772)
+}

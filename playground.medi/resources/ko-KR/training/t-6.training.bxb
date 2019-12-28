@@ -1,0 +1,5 @@
+train (t-6v4ung2oawyljbkcfhe7b641m) {
+  utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 어디있는지 알려줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577536698110)
+}

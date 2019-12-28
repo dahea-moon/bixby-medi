@@ -1,0 +1,5 @@
+train (t-isdrc86qavyygtnd89ml591tk) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (시흥)[v:viv.geo.PlaceName] (응급실)[v:halfpunchduo.medi.Where:응급실] 찾고싶어")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577538129291)
+}

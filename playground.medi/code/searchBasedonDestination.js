@@ -8,6 +8,9 @@ module.exports.function = function searchBasedDestination (destination, where) {
   var curtime = new dates.ZonedDateTime.now();
   var userday = curtime.getDayOfWeek();
   var usertime = curtime.getHour();
+  if (usertime == 0) {
+    var usertime = '0' + usertime
+  }
   var curmin = curtime.getMinute();
   if (curmin < 10) {
     var usermin = '0' + curmin

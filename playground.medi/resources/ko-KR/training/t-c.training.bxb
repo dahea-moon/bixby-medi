@@ -1,3 +1,23 @@
+train (t-c0mnaodebvzwc1vdqgy0bud5l) {
+  utterance ("[g:searchBasedonDestination] (산본)[v:geo.PlaceName] (이비인후과)[v:Where:이비인후과] 어디있는지 알려줘")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577540126906)
+}
+train (t-c2xf4dd8cfmxpmr3mcw40tgeq) {
+  utterance ("[g:searchBasedonDestinationWeekday] (용산역)[v:viv.geo.PlaceName] (토요일)[v:Weekday:토요일] (소아과)[v:Where:소아과] 어딨어")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577545662451)
+}
+train (t-c55i4iepr0tzzfrdh8zi88xhz) {
+  utterance ("[g:searchBasedonDestination] (광명동)[v:geo.PlaceName] (응급실)[v:Where:응급실] 찾아볼래")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577538019083)
+}
+train (t-c71ryvq0zvcasoqzv7hry33o6) {
+  utterance ("[g:searchBasedonDestinationWeekday] (왕십리)[v:geo.PlaceName]에서 (토요일)[v:Weekday:토요일] (소아과)[v:Where:소아과] 알려주라")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577538703276)
+}
 train (t-cvpfx8yqj61e87z8fh5oecx2x) {
   utterance ("[g:searchBasedonDestinationTime] (삼성역)[v:geo.PlaceName] (오늘 저녁 8시)[v:time.DateTimeExpression] (약국)[v:Where:약국] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)

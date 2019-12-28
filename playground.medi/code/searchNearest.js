@@ -5,11 +5,14 @@ var dates = require('dates');
 var tool = require('lib/tool.js');
 
 
-module.exports.function = function search_nearest (curlocation, where) {
+module.exports.function = function searchNearest (curlocation, where) {
 
   var curtime = new dates.ZonedDateTime.now();
   var userday = curtime.getDayOfWeek();
   var usertime = curtime.getHour();
+  if (usertime == 0) {
+    var usertime = '0' + usertime
+  }
   var curmin = curtime.getMinute();
   if (curmin < 10) {
     var usermin = '0' + curmin

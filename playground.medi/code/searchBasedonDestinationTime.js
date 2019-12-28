@@ -4,10 +4,13 @@ var dates = require('dates');
 var tool = require('lib/tool.js');
 
 
-module.exports.function = function searchBasedDestination (destination, dateTimeExpression, where) {
+module.exports.function = function searchBasedDestinationTime (destination, dateTimeExpression, where) {
   var curtime = new dates.ZonedDateTime.now();
   var userday = curtime.getDayOfWeek();
   var usertime = dateTimeExpression.dateTime.time.hour;
+  if (usertime == 0) {
+    var usertime = '0' + usertime
+  }
   var usermin = dateTimeExpression.dateTime.time.minute;
   if (usermin < 10) {
     var usermin = '0' + usermin

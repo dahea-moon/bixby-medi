@@ -1,0 +1,10 @@
+train (t-q60ai5kf2im9wxjbl6azeet18) {
+  utterance ("[g:searchNearest] (약국)[v:Where:약국]알려줘라")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577536567682)
+}
+train (t-qg56cyp40a498rd6zbxpacz6q) {
+  utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 알려주세요")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577536592306)
+}

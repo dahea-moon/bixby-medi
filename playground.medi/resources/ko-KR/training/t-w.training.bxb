@@ -3,6 +3,11 @@ train (t-w3hapn4tcqbistios7gjozvsp) {
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1576484328563)
 }
+train (t-wh1qtdb31ngtyyh8t1r8z48f5) {
+  utterance ("[g:searchNearest] (약국)[v:Where:약국] 알려주세요")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577536419142)
+}
 train (t-whxqls9u52ka16vyi2gbqikk7) {
   utterance ("[g:searchBasedonDestination] (광진구)[v:geo.SubLocalityOneName] (응급실)[v:Where:응급실] 어디있어")
   plan (dY67CsJAEEVvfNtaKFj4ARbp/AAfWIkKFtZrdjQDyaxkNwH/3lEJKmI3c86dB/oYpyY7X0tJUlu6OCfL8ZZMQT54TH+dV5ekC+PJOllpisUEdoLRb/aYUkEYVFzFF3Lx1ijdO5aAWc2WTnwoyiS85bpw+dzmLKxGd1e04or948akHvvjh7U/lKeNS0zG4bYTwrjmaxb7z33zxz/oIUIDTbTQRgdd7aEk+iAR8GRQ9qqbzxlN3gE=)

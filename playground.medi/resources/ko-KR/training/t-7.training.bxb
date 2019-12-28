@@ -1,0 +1,10 @@
+train (t-7ycz0wye8020knsa02ck7c7c4) {
+  utterance ("[g:searchBasedonDestinationTime] (일산)[v:geo.PlaceName] (오늘 저녁 9시)[v:time.DateTimeExpression] (어린이야간병원)[v:Where:달빛어린이병원] 알려줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577540009039)
+}
+train (t-7zvtghzhbd1uxbowt81t72sg3) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (오전 10시)[v:viv.time.DateTimeExpression]에 여는 (대치동)[v:geo.PlaceName] (안과)[v:Where:안과] 찾아줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577544255437)
+}

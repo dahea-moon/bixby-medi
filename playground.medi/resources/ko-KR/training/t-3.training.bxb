@@ -1,3 +1,8 @@
+train (t-3ezmqznrhe72dseymvpu5j17l) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (오늘 오전 10시)[v:viv.time.DateTimeExpression] (상도역)[v:viv.geo.PlaceName] (소아과)[v:halfpunchduo.medi.Where:소아과] 알려줘봐")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577537871967)
+}
 train (t-3nq0o87jogm3ngqi9w3dh850c) {
   utterance ("[g:searchBasedonDestinationTime] (강남역)[v:geo.PlaceName] (저녁7시)[v:time.DateTimeExpression] (치과)[v:Where:치과] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)

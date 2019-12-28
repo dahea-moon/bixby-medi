@@ -3,6 +3,21 @@ train (t-k0us4vwrx2u17k7tapu2pdp9y) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1576665811610)
 }
+train (t-kb7cgwru8onvu1nxg5f41od47) {
+  utterance ("[g:searchBasedonDestination] (강남역)[v:geo.PlaceName] (치과)[v:Where:치과] 찾고싶어")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577537294916)
+}
+train (t-kd4w5z1uhi89qatkvhoeaz18a) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (안양)[v:viv.geo.PlaceName]에서 (보건소)[v:halfpunchduo.medi.Where:보건소] 찾아볼래")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577542011606)
+}
+train (t-kji6jqsz55w7aomslcqhmeudx) {
+  utterance ("[g:searchNearest] (심장)[v:Where:심장제세기]은 어디에 있어")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577541162037)
+}
 train (t-ksyw9i3w3et2a6a34lxt3o452) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (삼성역)[v:viv.geo.PlaceName] (오늘 저녁 9시)[v:viv.time.DateTimeExpression] (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)

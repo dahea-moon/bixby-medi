@@ -14,11 +14,7 @@ endpoints {
     }
     action-endpoint (searchBasedonDestinationWeekday) {
       accepted-inputs (destination, where, weekday)
-      local-endpoint ("searchBasedonDestination.js")
-    }
-    action-endpoint (selectPlace) {
-      accepted-inputs (place)
-      local-endpoint ("selectPlace.js")
+      local-endpoint ("searchBasedonDestinationWeekday.js")
     }
   }
 }

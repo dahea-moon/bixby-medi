@@ -4,12 +4,11 @@ var console = require('console');
 var tool = require('lib/tool.js');
 
 
-module.exports.function = function search_weekday ( destination, where ) {
+module.exports.function = function searchBasedonDestinationWeekday ( destination, weekday, where ) {
   
-  var findDay = tool.weekdayToKorean(weekday);
+  var userday = tool.weekdayToKorean(weekday);
   var longt = destination.point.longitude
   var lat = destination.point.latitude
-
   var target = tool.changeKoreantoUrl(where);
 
   const response = http.getUrl('http://bixby-medi.herokuapp.com/api/' + target + '/search_nearest/', {
@@ -17,8 +16,7 @@ module.exports.function = function search_weekday ( destination, where ) {
       query: {
         longtitude: longt,
         latitude: lat,
-        curday: findDay,
-
+        curday: userday,
         curtime: '10:00',
       }
     });
