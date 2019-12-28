@@ -32,8 +32,7 @@ module.exports.function = function searchBasedonDestinationWeekday ( destination
         'location': {
             'longitude': aed.longt,
             'latitude': aed.langt
-          },
-        'curlocation': curlocation
+          }
       }
       nearests.push(info);
     })
@@ -46,8 +45,7 @@ module.exports.function = function searchBasedonDestinationWeekday ( destination
         'location': {
           'longitude': sooyu.longt,
           'latitude': sooyu.langt
-        },
-        'curlocation': curlocation
+        }
       }
       nearests.push(info)
   })

@@ -1,3 +1,8 @@
+train (t-yw9lysnrvo2auils0hmxo88us) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (속초해수욕장)[v:viv.geo.PlaceName]에서 (수유실)[v:halfpunchduo.medi.Where:수유실] 어딨니")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577548481829)
+}
 train (t-yxlb8oymity5dkyi1pigloois) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (산본)[v:viv.geo.PlaceName] (토요일)[v:halfpunchduo.medi.Weekday:토요일] (소아과)[v:halfpunchduo.medi.Where:소아과] 알려줘봐")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)

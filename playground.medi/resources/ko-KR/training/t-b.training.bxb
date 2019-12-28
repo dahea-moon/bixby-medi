@@ -1,3 +1,8 @@
+train (t-b64jovi9pnnw9mqae4ahxm59x) {
+  utterance ("[g:searchNearest] (AED)[v:Where:심장제세기] 어딨어")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577549245935)
+}
 train (t-bn395b89sc0o8ktdj5eyep9ca) {
   utterance ("[g:searchNearest] (약국)[v:Where:약국] 찾아줘")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

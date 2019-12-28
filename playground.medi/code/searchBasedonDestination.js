@@ -43,8 +43,7 @@ module.exports.function = function searchBasedDestination (destination, where) {
         'location': {
             'longitude': aed.longt,
             'latitude': aed.langt
-          },
-        'curlocation': curlocation
+          }
       }
       nearests.push(info);
     })
@@ -57,8 +56,7 @@ module.exports.function = function searchBasedDestination (destination, where) {
         'location': {
           'longitude': sooyu.longt,
           'latitude': sooyu.langt
-        },
-        'curlocation': curlocation
+        }
       }
       nearests.push(info)
   })

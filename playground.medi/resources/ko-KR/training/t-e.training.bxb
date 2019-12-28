@@ -3,3 +3,8 @@ train (t-er94qqf5kmg6o5fyti0oekit5) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1576665137700)
 }
+train (t-et1l5mybzf2w8ou44449jwtcb) {
+  utterance ("[g:searchBasedonDestinationTime] (오늘 오후 3시)[v:time.DateTimeExpression]에 여는 (여의도)[v:geo.PlaceName]의 (치과)[v:Where:치과] 있니")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577549256716)
+}

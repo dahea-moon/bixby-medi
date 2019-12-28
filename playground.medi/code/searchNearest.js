@@ -31,7 +31,6 @@ module.exports.function = function searchNearest (curlocation, where) {
         latitude: userlat,
         curday: userday,
         curtime: usertime + ':' + usermin,
-        // hospital 에 들어갈 foreignkey 값 줘야 함
       }
     });
   
@@ -80,7 +79,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -93,7 +93,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -111,7 +112,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -124,7 +126,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -142,7 +145,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -155,7 +159,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -173,7 +178,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -186,7 +192,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -204,7 +211,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -217,7 +225,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -235,7 +244,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -248,7 +258,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -266,7 +277,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -279,7 +291,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } ) }
@@ -299,7 +312,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -313,7 +327,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -332,7 +347,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -346,7 +362,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -365,7 +382,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -379,7 +397,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -398,7 +417,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -412,7 +432,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -431,7 +452,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -445,7 +467,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -464,7 +487,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -478,7 +502,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )
@@ -497,7 +522,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } else {
@@ -511,7 +537,8 @@ module.exports.function = function searchNearest (curlocation, where) {
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
-      }
+      },
+        'curlocation': curlocation
       }
       nearests.push(info)
       } } )

@@ -84,7 +84,7 @@ layout-macro-def (nearest_result) {
         }
         if (exists(info.open) and exists(info.close)) {
           paragraph {
-              value ("오늘 영업시간: #{value(info.open)} ~ #{value(info.close)}")
+              value ("영업시간: #{value(info.open)} ~ #{value(info.close)}")
             }
         }
         if (exists(info.holiday_open) and exists(info.holiday_close)) {
