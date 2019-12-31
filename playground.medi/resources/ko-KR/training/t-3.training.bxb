@@ -8,3 +8,23 @@ train (t-3nq0o87jogm3ngqi9w3dh850c) {
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1576480357159)
 }
+train (t-3r03kek5qj0cmhab5oounjzel) {
+  utterance ("[g:searchBasedonDestination] (광명동)[v:geo.PlaceName]에 있는 (응급실)[v:Where:응급실] 찾아보자")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577774234013)
+}
+train (t-3w056kqsws95upane41623g6p) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (부천역)[v:viv.geo.PlaceName] 근처에 (약국)[v:halfpunchduo.medi.Where:약국] 있어?")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577776447998)
+}
+train (t-3w9oa2q3amljzv0ta6bcq0tjs) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 여는 (강남)[v:viv.geo.SubLocalityOneName] (내과)[v:halfpunchduo.medi.Where:내과] 있어?")
+  plan (dY7LigJBDEWvj/G1dOEwLvyEBhd+gA9ciQqzmHXZFe2gnZKu6gb/3jRjIYNjahHqnFwSDDDOzOV4LSXNbOmSnCwnWzIF+eAxfXVeXZotjCfrZKVTLCawkx+iszU3fL1Govr8R2VUEIYVV8mJXLI1SveOJWAW2dKJD0WZhqdcFy6f25yF1ej2ilZcsdcrMImxN34U/Xd52LjUXDjcdkIYR75mse/cX17fgz4aaKKFNj7QQRc9JVBWvydr4Lfq3nr82o+kzt8B)
+  last-modified (1577775439142)
+}
+train (t-3ykjy8y27khe3tpff4oqm6ggu) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (심장)[v:halfpunchduo.medi.Where:심장제세기] 찾아줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774301392)
+}

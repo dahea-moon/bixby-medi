@@ -1,0 +1,20 @@
+train (t-s5vax84rqipu54n5ms754ghfw) {
+  utterance ("[g:searchNearest] 영업하는 (안과)[v:Where:안과] 알려주라고")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577777059486)
+}
+train (t-s6o98xmrx8itkpiabk9e29zd2) {
+  utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 위치 알려주세요")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774066911)
+}
+train (t-scyigf5sd0fxtlb2hdwj0n7mu) {
+  utterance ("[g:searchBasedonDestinationWeekday] (토요일)[v:Weekday:토요일] (망원동)[v:geo.PlaceName] (약국)[v:Where:약국] 찾아봐라")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577776374576)
+}
+train (t-sit9tmtu07hvvpfcnx2lxyv9l) {
+  utterance ("[g:searchBasedonDestinationWeekday] (일요일)[v:Weekday:일요일] (광명)[v:geo.PlaceName] (달빛어린이병원)[v:Where:달빛어린이병원] 찾아볼래")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577776316251)
+}

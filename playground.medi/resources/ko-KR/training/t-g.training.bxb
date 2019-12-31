@@ -1,3 +1,13 @@
+train (t-g6okyzt8adhns0v2hr42sm5a3) {
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세기] 찾아줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774492607)
+}
+train (t-g880u3wgshl7rdnh0s1ubgc8x) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (수유실)[v:halfpunchduo.medi.Where:수유실] 위치 알려줄래")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577773290054)
+}
 train (t-g950babahm8a7is6ntz4jyl4s) {
   utterance ("[g:searchBasedonDestinationWeekday] (금요일)[v:Weekday:금요일]에 여는 (동대문)[v:geo.PlaceName] (치과)[v:Where:치과] 알려주라")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
@@ -7,4 +17,9 @@ train (t-gesra34k4e6mur3hpy95rbnoa) {
   utterance ("[g:searchBasedonDestinationTime] (역삼역)[v:geo.PlaceName] (오전10시)[v:time.DateTimeExpression] (약국)[v:Where:약국] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1576482263415)
+}
+train (t-gqty9fpqmfg6efymrzhyyfpv4) {
+  utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 어딘지 알려줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577773270064)
 }

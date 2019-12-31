@@ -1,5 +1,20 @@
+train (t-z1l74eqdygnf7ic477e2b35ux) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (대구)[v:viv.geo.PlaceName]에 (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 하는 (치과)[v:halfpunchduo.medi.Where:치과] 찾아봐")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577777021772)
+}
+train (t-z5c54yu3qf77ac7syb0j8o80l) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (강릉)[v:viv.geo.PlaceName] (심장)[v:halfpunchduo.medi.Where:심장제세기] 찾아봐")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1577775035023)
+}
 train (t-zbapmt0cfzc2jl5snlgqoqqv8) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (월요일)[v:Weekday:월요일] (서울대입구역)[v:geo.PlaceName] (비뇨기과)[v:Where:비뇨기과] 어디있어")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1577542873756)
+}
+train (t-zf655vnoqipyyiuooc29pcmhs) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] 지금 하는 (치과)[v:halfpunchduo.medi.Where:치과] 찾아봐")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577775629083)
 }

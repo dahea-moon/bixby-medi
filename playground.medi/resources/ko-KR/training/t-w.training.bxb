@@ -3,6 +3,11 @@ train (t-w3hapn4tcqbistios7gjozvsp) {
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1576484328563)
 }
+train (t-w4b2yct61mdbtgeai7r85qwr2) {
+  utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 좀 찾아줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577773341779)
+}
 train (t-wh1qtdb31ngtyyh8t1r8z48f5) {
   utterance ("[g:searchNearest] (약국)[v:Where:약국] 알려주세요")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
@@ -17,4 +22,14 @@ train (t-wnxa2zi9g3rc27kxhrw7o7owq) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (오늘 오후 12시)[v:viv.time.DateTimeExpression] (여의도)[v:viv.geo.PlaceName] (내과)[v:halfpunchduo.medi.Where:내과] 어디있냐고")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1577549141948)
+}
+train (t-wo3z0f5vsmpzycoiennz2g1kv) {
+  utterance ("[g:searchNearest] 근처에 영업하는 (안과)[v:Where:안과] 있어?")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577775877173)
+}
+train (t-wwouvdtygh2wkpzl970pvgezv) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (수요일)[v:halfpunchduo.medi.Weekday:수요일]에 여는 (선릉역)[v:viv.geo.PlaceName] (정신과)[v:halfpunchduo.medi.Where:정신과] 찾아줘")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577774281987)
 }

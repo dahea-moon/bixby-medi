@@ -3,13 +3,38 @@ train (t-96mc0r99k9h89gwjvvvos5hpn) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1576579255549)
 }
+train (t-999mdpytxvyw6plyzuw6luh6o) {
+  utterance ("[g:searchNearest] (약국)[v:Where:약국] 어딘지 알려줘봐")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577773050959)
+}
 train (t-9fg9ewgyg1w4wddckhpdi11i8) {
   utterance ("[g:searchBasedonDestinationWeekday] (수요일)[v:Weekday:수요일]에 여는 (선릉역)[v:geo.PlaceName] (정신과)[v:Where:정신과] 찾아줘")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1577549329047)
 }
+train (t-9ge60xxrcrnl0wkih2skixsax) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (심장제세동기)[v:halfpunchduo.medi.Where:심장제세기] 찾아봐라")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774615266)
+}
+train (t-9ifa6vq65xa9rxj9ttg10q2st) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (노원구에)[v:viv.geo.PlaceName] (토요일)[v:halfpunchduo.medi.Weekday:토요일] (소아과)[v:halfpunchduo.medi.Where:소아과] 알려주세요")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577774256744)
+}
 train (t-9ivtm2lw3ezr8t3n2pcu2akgw) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (구룡역)[v:viv.geo.PlaceName]에서 (종합병원)[v:halfpunchduo.medi.Where:종합병원] 찾아주라")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
   last-modified (1577547741566)
+}
+train (t-9oxjhcxbpzfttuji5qlwv561k) {
+  utterance ("[g:searchNearest] 지금 (안과)[v:Where:안과] 연데 있어?")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577775552320)
+}
+train (t-9qoizylskahlzrq1rnrobdkzt) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] 근처 (심장)[v:halfpunchduo.medi.Where:심장제세기] 있어?")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577776073767)
 }

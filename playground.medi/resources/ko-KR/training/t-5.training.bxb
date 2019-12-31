@@ -1,5 +1,40 @@
+train (t-53xvt680t9jxxjpz3sg6ovxee) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (심장)[v:halfpunchduo.medi.Where:심장제세기] 알려달라고")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774806511)
+}
 train (t-5f1oy3tzvt5fakqs0ix0hxx6h) {
   utterance ("[g:searchBasedonDestination] (오산)[v:geo.PlaceName]에서 (산부인과)[v:Where:산부인과] 알려달라고")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
   last-modified (1577541051896)
+}
+train (t-5frvvry5pt6bct1eihpzc848a) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (수유실)[v:halfpunchduo.medi.Where:수유실] 위치 찾아줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577773391041)
+}
+train (t-5ljao1j8fizzwmm2kbdgz2k9x) {
+  utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 알려줘볼래")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577773539894)
+}
+train (t-5ljhxbqgzf5dax5yi2xt25a6w) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (밤 8시)[v:viv.time.DateTimeExpression] (테헤란로)[v:viv.geo.PlaceName] (내과)[v:halfpunchduo.medi.Where:내과] 찾아줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577775362229)
+}
+train (t-5m68lfz667pzbb0xo6molkh4t) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] 지금 영업하는 (약국)[v:halfpunchduo.medi.Where:약국] 있어?")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577776948540)
+}
+train (t-5nu1904b06busmvytfrgb92is) {
+  utterance ("[g:searchBasedonDestinationTime] (저녁 8시)[v:viv.time.DateTimeExpression]에 갈 수 있는 (강남역)[v:viv.geo.PlaceName] (정형외과)[v:Where:정형외과] 보여줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577777894790)
+}
+train (t-5sa1knqlhklqhtf8u2hdyw2c1) {
+  utterance ("[g:searchNearest] 근처 (산부인과)[v:Where:산부인과] 알려줘봐")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577775871103)
 }

@@ -18,8 +18,18 @@ train (t-kji6jqsz55w7aomslcqhmeudx) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577541162037)
 }
+train (t-kpvshulddqmvni01jb2ga1ojl) {
+  utterance ("[g:searchBasedonDestinationWeekday] (망원동)[v:geo.PlaceName]에 있는 (수요일)[v:Weekday:수요일]에 여는 (신경외과)[v:Where:신경외과] 찾아줘")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577774365185)
+}
 train (t-ksyw9i3w3et2a6a34lxt3o452) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (삼성역)[v:viv.geo.PlaceName] (오늘 저녁 9시)[v:viv.time.DateTimeExpression] (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1576657375697)
+}
+train (t-ky8rhnqb785tkvlb7q5ox7c5t) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (수유실)[v:halfpunchduo.medi.Where:수유실] 찾아볼래")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577773366529)
 }

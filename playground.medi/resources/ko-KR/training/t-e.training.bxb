@@ -1,3 +1,8 @@
+train (t-e5inll2lpyevqn0r2c22tdj75) {
+  utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 알려줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577772906748)
+}
 train (t-er94qqf5kmg6o5fyti0oekit5) {
   utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 알려줘")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
@@ -7,4 +12,9 @@ train (t-et1l5mybzf2w8ou44449jwtcb) {
   utterance ("[g:searchBasedonDestinationTime] (오늘 오후 3시)[v:time.DateTimeExpression]에 여는 (여의도)[v:geo.PlaceName]의 (치과)[v:Where:치과] 있니")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1577549256716)
+}
+train (t-eugirqe4d3srth5dm9300rgnq) {
+  utterance ("[g:searchNearest] 근처 (AED)[v:Where:심장제세기] 있어?")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577775959404)
 }

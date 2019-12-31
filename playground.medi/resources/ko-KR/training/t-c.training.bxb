@@ -18,8 +18,23 @@ train (t-c71ryvq0zvcasoqzv7hry33o6) {
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1577538703276)
 }
+train (t-ccnzdukgor91yxsibzfo9s562) {
+  utterance ("[g:searchBasedonDestinationTime] (서면역)[v:viv.geo.PlaceName] (8시)[v:viv.time.DateTimeExpression] (이비인후과)[v:Where:이비인후과] 찾아줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1577774989235)
+}
+train (t-ck3zfhk1el99ewvs0pg4fjyhg) {
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세기] 찾아줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774667799)
+}
 train (t-cvpfx8yqj61e87z8fh5oecx2x) {
   utterance ("[g:searchBasedonDestinationTime] (삼성역)[v:geo.PlaceName] (오늘 저녁 8시)[v:time.DateTimeExpression] (약국)[v:Where:약국] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1576482457499)
+}
+train (t-cwnd6sd3v2yoxb7ro0r6witxe) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (보건소)[v:halfpunchduo.medi.Where:보건소] 어디있는지 찾아줄래")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577775898805)
 }

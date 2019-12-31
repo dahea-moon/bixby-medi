@@ -1,0 +1,10 @@
+train (t-o1ucjfwhco2n242zo1g832jcc) {
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세기] 찾아볼래")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774592706)
+}
+train (t-o3uo0u6etood2x0s6buppseen) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (심장제세동기)[v:halfpunchduo.medi.Where:심장제세기] 알려줘봐")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774575102)
+}

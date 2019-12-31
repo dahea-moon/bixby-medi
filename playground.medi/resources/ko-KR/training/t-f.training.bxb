@@ -3,6 +3,11 @@ train (t-f19hw7i2pakadx9mnxvrsn2fi) {
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1577543841036)
 }
+train (t-fh1nvgya9id5iutm7lzt0xtgu) {
+  utterance ("[g:searchNearest] (약국)[v:Where:약국] 위치 알려줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577772962389)
+}
 train (t-fh522oxpdo7t13x78tomb35er) {
   utterance ("[g:searchBasedonDestination] (광진구)[v:geo.SubLocalityOneName] (치과)[v:Where:치과] 어디있어")
   plan (dY67CsJAEEVvfNtaKFj4ARbp/AAfWIkKFtZrdjQDyaxkNwH/3lEJKmI3c86dB/oYpyY7X0tJUlu6OCfL8ZZMQT54TH+dV5ekC+PJOllpisUEdoLRb/aYUkEYVFzFF3Lx1ijdO5aAWc2WTnwoyiS85bpw+dzmLKxGd1e04or948akHvvjh7U/lKeNS0zG4bYTwrjmaxb7z33zxz/oIUIDTbTQRgdd7aEk+iAR8GRQ9qqbzxlN3gE=)
@@ -12,4 +17,24 @@ train (t-fhqqvh2g25ohye2n51byo2vrd) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (강남역)[v:viv.geo.PlaceName] (치과)[v:Where:치과] 찾아볼래")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
   last-modified (1577537241299)
+}
+train (t-fk1mhuip53mlidtn6rerstosq) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (월요일)[v:halfpunchduo.medi.Weekday:월요일] (신촌)[v:viv.geo.PlaceName] (치과)[v:halfpunchduo.medi.Where:치과] 알려줄래요")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577777319268)
+}
+train (t-fmzfrtwqxxt7hybfwe2pdxprp) {
+  utterance ("[g:searchNearest] (심장)[v:Where:심장제세기] 어디야")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774785530)
+}
+train (t-fo8lcbqui87jgxsm5cwi4dfce) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] (심장제세동기)[v:halfpunchduo.medi.Where:심장제세기] 알려달라고")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1577774823815)
+}
+train (t-fte02nt3y8y4uaa0gxefvy4dm) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 하는 (강남)[v:viv.geo.PlaceName] (약국)[v:halfpunchduo.medi.Where:약국] 찾아줘")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1577776408396)
 }
