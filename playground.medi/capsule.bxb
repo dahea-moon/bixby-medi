@@ -1,6 +1,6 @@
 capsule {
   id (halfpunchduo.medi)
-  version (0.3.0)
+  version (0.4.0)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
@@ -10,13 +10,7 @@ capsule {
       allow (KR)
     }
   }
-  runtime-flags {
-    concepts-inherit-super-type-features
-    modern-prompt-rejection
-    support-halt-effect-in-computed-inputs
-    no-filtering-with-validation
-    use-input-views-for-selection-list-detail
-    modern-default-view-behavior
+  runtime-version (2) {
   }
   store-sections{
     section (HealthAndFitness)
@@ -32,11 +26,11 @@ capsule {
     }
     import (viv.time) {
       as (time)
-      version-from (entity)
+      version (3.1.23)
     }
     import (viv.geo) {
       as (geo)
-      version-from (entity)
+      version (9.24.14)
     }
   }
   permissions {
