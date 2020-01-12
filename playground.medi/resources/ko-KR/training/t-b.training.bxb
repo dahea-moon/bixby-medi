@@ -1,12 +1,12 @@
 train (t-b64jovi9pnnw9mqae4ahxm59x) {
-  utterance ("[g:searchNearest] (AED)[v:Where:심장제세기] 어딨어")
+  utterance ("[g:searchNearest] (AED)[v:Where:심장제세동기] 어딨어")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577549245935)
+  last-modified (1578744828294)
 }
 train (t-bkq9bslzl1ocsyn2uy8uiqbkr) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (대전)[v:viv.geo.PlaceName] (응급실)[v:halfpunchduo.medi.Where:응급실] 찾아줘")
+  utterance ("[g:searchBasedonDestination] (대전)[v:viv.geo.PlaceName] (응급실)[v:Where:응급실] 찾아줘")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577774908111)
+  last-modified (1578744911794)
 }
 train (t-bn395b89sc0o8ktdj5eyep9ca) {
   utterance ("[g:searchNearest] (약국)[v:Where:약국] 찾아줘")

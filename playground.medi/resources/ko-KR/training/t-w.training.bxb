@@ -28,8 +28,3 @@ train (t-wo3z0f5vsmpzycoiennz2g1kv) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577775877173)
 }
-train (t-wwouvdtygh2wkpzl970pvgezv) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (수요일)[v:halfpunchduo.medi.Weekday:수요일]에 여는 (선릉역)[v:viv.geo.PlaceName] (정신과)[v:halfpunchduo.medi.Where:정신과] 찾아줘")
-  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
-  last-modified (1577774281987)
-}

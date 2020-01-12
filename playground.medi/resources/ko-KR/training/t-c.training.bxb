@@ -24,9 +24,9 @@ train (t-ccnzdukgor91yxsibzfo9s562) {
   last-modified (1577774989235)
 }
 train (t-ck3zfhk1el99ewvs0pg4fjyhg) {
-  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세기] 찾아줘")
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세동기] 찾아줘")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577774667799)
+  last-modified (1578744554621)
 }
 train (t-cvpfx8yqj61e87z8fh5oecx2x) {
   utterance ("[g:searchBasedonDestinationTime] (삼성역)[v:geo.PlaceName] (오늘 저녁 8시)[v:time.DateTimeExpression] (약국)[v:Where:약국] 알려줘")

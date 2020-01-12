@@ -4,7 +4,7 @@ train (t-40f0p21pe5ekzvi66ih1vdswh) {
   last-modified (1577775669234)
 }
 train (t-4sdcixs6vz6e1265273528wwe) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (안양)[v:viv.geo.PlaceName] (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 찾아줘")
+  utterance ("[g:searchBasedonDestination] (안양)[v:viv.geo.PlaceName] (달빛어린이병원)[v:Where:달빛어린이병원] 찾아줘")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577539834666)
+  last-modified (1578744907883)
 }

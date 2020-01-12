@@ -13,6 +13,11 @@ train (t-mrb0bmrjmhmp0b66swdbximdj) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577536624750)
 }
+train (t-mt6y3zheh4pngvchgzbvya85t) {
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세동기] 알려달라고")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1578744592596)
+}
 train (t-mwq4uzfnond2ofxmdskw0xwi1) {
   utterance ("[g:halfpunchduo.medi.searchNearest] (수유실)[v:halfpunchduo.medi.Where:수유실] 어디있는지 찾아봐")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

@@ -3,7 +3,7 @@ enum (Where) {
   symbol (약국)
   symbol (응급실)
   symbol (수유실)
-  symbol (심장제세기)
+  symbol (심장제세동기)
   symbol (소아과)
   symbol (달빛어린이병원)
   symbol (종합병원)

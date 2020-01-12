@@ -24,14 +24,14 @@ train (t-fk1mhuip53mlidtn6rerstosq) {
   last-modified (1577777319268)
 }
 train (t-fmzfrtwqxxt7hybfwe2pdxprp) {
-  utterance ("[g:searchNearest] (심장)[v:Where:심장제세기] 어디야")
+  utterance ("[g:searchNearest] (심장)[v:Where:심장제세동기] 어디야")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577774785530)
+  last-modified (1578744775886)
 }
 train (t-fo8lcbqui87jgxsm5cwi4dfce) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] (심장제세동기)[v:halfpunchduo.medi.Where:심장제세기] 알려달라고")
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세동기] 알려달라고")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577774823815)
+  last-modified (1578744556371)
 }
 train (t-fte02nt3y8y4uaa0gxefvy4dm) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 하는 (강남)[v:viv.geo.PlaceName] (약국)[v:halfpunchduo.medi.Where:약국] 찾아줘")

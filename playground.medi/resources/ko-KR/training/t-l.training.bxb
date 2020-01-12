@@ -14,9 +14,9 @@ train (t-lbfbduzzoh08o3hsgodmr6hv4) {
   last-modified (1577775329247)
 }
 train (t-lgkeya1kiroemm5lnermhn0h1) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] (AED)[v:halfpunchduo.medi.Where:심장제세기] 찾아봐")
+  utterance ("[g:searchNearest] (AED)[v:Where:심장제세동기] 찾아봐")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577775935263)
+  last-modified (1578744831785)
 }
 train (t-lt3svqt0px4hfboggl2e0xcad) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (연신내)[v:viv.geo.PlaceName] (내과)[v:halfpunchduo.medi.Where:내과] 알려줘")

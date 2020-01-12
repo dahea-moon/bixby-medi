@@ -14,7 +14,7 @@ train (t-et1l5mybzf2w8ou44449jwtcb) {
   last-modified (1577549256716)
 }
 train (t-eugirqe4d3srth5dm9300rgnq) {
-  utterance ("[g:searchNearest] 근처 (AED)[v:Where:심장제세기] 있어?")
+  utterance ("[g:searchNearest] 근처 (AED)[v:Where:심장제세동기] 있어?")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577775959404)
+  last-modified (1578744830355)
 }

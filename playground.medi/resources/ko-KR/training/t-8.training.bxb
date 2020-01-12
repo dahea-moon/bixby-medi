@@ -4,7 +4,7 @@ train (t-881ra1nx09a40jhjxxwpynmpb) {
   last-modified (1576486234463)
 }
 train (t-8hcrcv3hovcusudts9ek039ws) {
-  utterance ("[g:searchNearest] 근처에 (심장)[v:Where:심장제세기] 있어?")
+  utterance ("[g:searchNearest] 근처에 (심장)[v:Where:심장제세동기] 있어?")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577776325719)
+  last-modified (1578744639365)
 }

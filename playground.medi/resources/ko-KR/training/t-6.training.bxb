@@ -1,17 +1,17 @@
 train (t-62qg31liu8qnymz0y5nyojt8o) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (강남)[v:viv.geo.PlaceName] (약국)[v:halfpunchduo.medi.Where:약국] 있어?")
+  utterance ("[g:searchBasedonDestinationTime] (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (강남)[v:viv.geo.PlaceName] (약국)[v:Where:약국] 있어?")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
-  last-modified (1577776430703)
+  last-modified (1578744908864)
 }
 train (t-6c7aejqv17ppeonqymgypwj5l) {
-  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세기] 찾아봐")
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세동기] 찾아봐")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577774873284)
+  last-modified (1578743707946)
 }
 train (t-6kilyvbubm92b0z8env3f7wyu) {
-  utterance ("[g:searchNearest] (심장)[v:Where:심장제세기] 찾아봐")
+  utterance ("[g:searchNearest] (심장)[v:Where:심장제세동기] 찾아봐")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577774694009)
+  last-modified (1578744756908)
 }
 train (t-6v4ung2oawyljbkcfhe7b641m) {
   utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 어디있는지 알려줘")

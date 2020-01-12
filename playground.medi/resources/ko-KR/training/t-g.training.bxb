@@ -1,7 +1,7 @@
 train (t-g6okyzt8adhns0v2hr42sm5a3) {
-  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세기] 찾아줘")
+  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세동기] 찾아줘")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577774492607)
+  last-modified (1578744563751)
 }
 train (t-g880u3wgshl7rdnh0s1ubgc8x) {
   utterance ("[g:halfpunchduo.medi.searchNearest] (수유실)[v:halfpunchduo.medi.Where:수유실] 위치 알려줄래")

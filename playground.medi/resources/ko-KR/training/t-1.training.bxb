@@ -1,7 +1,7 @@
 train (t-1dm8ma6nbwopetn5gcuwdfejf) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (아침 8시)[v:viv.time.DateTimeExpression]에 여는 (오리로)[v:viv.geo.PlaceName] (내과)[v:halfpunchduo.medi.Where:내과] 찾아볼래")
+  utterance ("[g:searchBasedonDestinationTime] (아침 8시)[v:viv.time.DateTimeExpression]에 여는 (오리로)[v:viv.geo.PlaceName] (내과)[v:Where:내과] 찾아볼래")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
-  last-modified (1577775419798)
+  last-modified (1578744905987)
 }
 train (t-1gic6a9x0a2ot1o9wf97gnlx4) {
   utterance ("[g:searchBasedonDestinationWeekday] (노원구)[v:viv.geo.PlaceName] (토요일)[v:Weekday:토요일] (소아과)[v:Where:소아과] 알려줘")

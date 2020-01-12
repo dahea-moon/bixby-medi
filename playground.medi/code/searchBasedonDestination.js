@@ -99,8 +99,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty2_open,
+      'close': moon.duty2_close,
       'holiday_open': moon.duty8_open,
       'holiday_close': moon.duty8_close,
       'location' : {
@@ -114,8 +114,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty2_open,
+      'close': moon.duty2_close,
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
@@ -130,8 +130,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty3_open,
+      'close': moon.duty3_close,
       'holiday_open': moon.duty8_open,
       'holiday_close': moon.duty8_close,
       'location' : {
@@ -145,8 +145,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty3_open,
+      'close': moon.duty3_close,
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
@@ -161,8 +161,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty4_open,
+      'close': moon.duty4_close,
       'holiday_open': moon.duty8_open,
       'holiday_close': moon.duty8_close,
       'location' : {
@@ -176,8 +176,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty4_open,
+      'close': moon.duty4_close,
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
@@ -192,8 +192,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty5_open,
+      'close': moon.duty5_close,
       'holiday_open': moon.duty8_open,
       'holiday_close': moon.duty8_close,
       'location' : {
@@ -207,8 +207,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty5_open,
+      'close': moon.duty5_close,
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
@@ -223,8 +223,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty6_open,
+      'close': moon.duty6_close,
       'holiday_open': moon.duty8_open,
       'holiday_close': moon.duty8_close,
       'location' : {
@@ -238,8 +238,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty6_open,
+      'close': moon.duty6_close,
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
@@ -254,8 +254,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty7_open,
+      'close': moon.duty7_close,
       'holiday_open': moon.duty8_open,
       'holiday_close': moon.duty8_close,
       'location' : {
@@ -269,8 +269,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'name': moon.name,
       'address': moon.address,
       'call': moon.call,
-      'open': moon.duty1_open,
-      'close': moon.duty1_close,
+      'open': moon.duty7_open,
+      'close': moon.duty7_close,
       'location' : {
       'longitude': moon.longt,
       'latitude': moon.langt
@@ -320,8 +320,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty2_open,
+      'close': hospital.duty2_close,
       'holiday_open': hospital.duty8_open,
       'holiday_close': hospital.duty8_close,
       'location' : {
@@ -336,8 +336,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty2_open,
+      'close': hospital.duty2_close,
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
@@ -353,8 +353,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty3_open,
+      'close': hospital.duty3_close,
       'holiday_open': hospital.duty8_open,
       'holiday_close': hospital.duty8_close,
       'location' : {
@@ -369,8 +369,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty3_open,
+      'close': hospital.duty3_close,
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
@@ -386,8 +386,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty4_open,
+      'close': hospital.duty4_close,
       'holiday_open': hospital.duty8_open,
       'holiday_close': hospital.duty8_close,
       'location' : {
@@ -402,8 +402,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty4_open,
+      'close': hospital.duty4_close,
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
@@ -419,8 +419,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty5_open,
+      'close': hospital.duty5_close,
       'holiday_open': hospital.duty8_open,
       'holiday_close': hospital.duty8_close,
       'location' : {
@@ -435,8 +435,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty5_open,
+      'close': hospital.duty5_close,
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
@@ -452,8 +452,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty6_open,
+      'close': hospital.duty6_close,
       'holiday_open': hospital.duty8_open,
       'holiday_close': hospital.duty8_close,
       'location' : {
@@ -468,8 +468,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty6_open,
+      'close': hospital.duty6_close,
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt
@@ -485,8 +485,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty7_open,
+      'close': hospital.duty7_close,
       'holiday_open': hospital.duty8_open,
       'holiday_close': hospital.duty8_close,
       'location' : {
@@ -501,8 +501,8 @@ module.exports.function = function searchBasedDestination (destination, where) {
       'address': hospital.address,
       'place': hospital.place,
       'call': hospital.call,
-      'open': hospital.duty1_open,
-      'close': hospital.duty1_close,
+      'open': hospital.duty7_open,
+      'close': hospital.duty7_close,
       'location' : {
       'longitude': hospital.longt,
       'latitude': hospital.langt

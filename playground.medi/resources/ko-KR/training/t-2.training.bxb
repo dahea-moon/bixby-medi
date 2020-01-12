@@ -1,7 +1,7 @@
 train (t-2120znbraagsywofyw600dc8d) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 알려주라고")
+  utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 알려주라고")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577536721378)
+  last-modified (1578744906419)
 }
 train (t-2ci7npkg08glypkv3k4pbnocj) {
   utterance ("[g:searchBasedonDestinationTime] (오늘 저녁 8시)[v:time.DateTimeExpression] (삼성역)[v:geo.PlaceName] (정형외과)[v:Where:정형외과] 알려줘")
@@ -9,7 +9,7 @@ train (t-2ci7npkg08glypkv3k4pbnocj) {
   last-modified (1577546818725)
 }
 train (t-2rpepntbrsfo4cgwotl9fel7s) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 알려주라고")
+  utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 알려주라고")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577774085599)
+  last-modified (1578744906715)
 }

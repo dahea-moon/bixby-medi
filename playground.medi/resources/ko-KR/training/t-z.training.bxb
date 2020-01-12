@@ -4,9 +4,9 @@ train (t-z1l74eqdygnf7ic477e2b35ux) {
   last-modified (1577777021772)
 }
 train (t-z5c54yu3qf77ac7syb0j8o80l) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (강릉)[v:viv.geo.PlaceName] (심장)[v:halfpunchduo.medi.Where:심장제세기] 찾아봐")
+  utterance ("[g:searchBasedonDestination] (강릉)[v:viv.geo.PlaceName] (심장)[v:Where:심장제세동기] 찾아봐")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577775035023)
+  last-modified (1578744736833)
 }
 train (t-zbapmt0cfzc2jl5snlgqoqqv8) {
   utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (월요일)[v:Weekday:월요일] (서울대입구역)[v:geo.PlaceName] (비뇨기과)[v:Where:비뇨기과] 어디있어")
