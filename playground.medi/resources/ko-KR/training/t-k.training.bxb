@@ -9,9 +9,9 @@ train (t-kb7cgwru8onvu1nxg5f41od47) {
   last-modified (1577537294916)
 }
 train (t-kd4w5z1uhi89qatkvhoeaz18a) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (안양)[v:viv.geo.PlaceName]에서 (보건소)[v:halfpunchduo.medi.Where:보건소] 찾아볼래")
+  utterance ("[g:searchBasedonDestination] (안양)[v:viv.geo.PlaceName]에서 (보건소)[v:Where:보건소] 찾아볼래")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577542011606)
+  last-modified (1579422931957)
 }
 train (t-kji6jqsz55w7aomslcqhmeudx) {
   utterance ("[g:searchNearest] (심장)[v:Where:심장제세동기]은 어디에 있어")
@@ -24,12 +24,17 @@ train (t-kpvshulddqmvni01jb2ga1ojl) {
   last-modified (1577774365185)
 }
 train (t-ksyw9i3w3et2a6a34lxt3o452) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (삼성역)[v:viv.geo.PlaceName] (오늘 저녁 9시)[v:viv.time.DateTimeExpression] (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 알려줘")
+  utterance ("[g:searchBasedonDestinationTime] (삼성역)[v:viv.geo.PlaceName] (오늘 저녁 9시)[v:viv.time.DateTimeExpression] (달빛어린이병원)[v:Where:달빛어린이병원] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
-  last-modified (1576657375697)
+  last-modified (1579422932228)
+}
+train (t-kwk33904ovm6m98udoky92c6u) {
+  utterance ("[g:searchBasedonDestinationTime] (상대동)[v:geo.PlaceName]에서 (저녁 6시 30분)[v:time.DateTimeExpression]에 열린 (피부과)[v:Where:피부과] 어디있어")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579436491086)
 }
 train (t-ky8rhnqb785tkvlb7q5ox7c5t) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] (수유실)[v:halfpunchduo.medi.Where:수유실] 찾아볼래")
+  utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 찾아볼래")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577773366529)
+  last-modified (1579422932307)
 }

@@ -3,6 +3,16 @@ train (t-e5inll2lpyevqn0r2c22tdj75) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577772906748)
 }
+train (t-ea4dih3temtb28sim7zn2tvhw) {
+  utterance ("[g:searchBasedonDestination] (다산동)[v:geo.PlaceName] 주위에 있는 (달빛 어린이병원)[v:Where:달빛어린이병원] 띄어줘")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579434449820)
+}
+train (t-eqf1fusnym0eae9w2nm3qzigr) {
+  utterance ("[g:searchBasedonDestination] (석관동)[v:geo.PlaceName]에 열려있는 (치과)[v:Where:치과] 찾아줘")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579433912004)
+}
 train (t-er94qqf5kmg6o5fyti0oekit5) {
   utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 알려줘")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

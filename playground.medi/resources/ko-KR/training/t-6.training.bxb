@@ -18,3 +18,8 @@ train (t-6v4ung2oawyljbkcfhe7b641m) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577536698110)
 }
+train (t-6y7nn51tntheqwen872a8trkz) {
+  utterance ("[g:searchBasedonDestinationTime] (오늘 저녁 9시)[v:time.DateTimeExpression]에 여는 (반포대로)[v:geo.PlaceName] 주위 (비뇨기과)[v:Where:비뇨기과] 찾아달라고")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579436161360)
+}

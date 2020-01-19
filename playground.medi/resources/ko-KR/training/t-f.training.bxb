@@ -1,7 +1,7 @@
 train (t-f19hw7i2pakadx9mnxvrsn2fi) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (망원동)[v:viv.geo.PlaceName]에서 (수요일)[v:halfpunchduo.medi.Weekday:수요일]에 여는 (신경외과)[v:halfpunchduo.medi.Where:신경외과] 찾아줘")
+  utterance ("[g:searchBasedonDestinationWeekday] (망원동)[v:viv.geo.PlaceName]에서 (수요일)[v:Weekday:수요일]에 여는 (신경외과)[v:Where:신경외과] 찾아줘")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
-  last-modified (1577543841036)
+  last-modified (1579422930354)
 }
 train (t-fh1nvgya9id5iutm7lzt0xtgu) {
   utterance ("[g:searchNearest] (약국)[v:Where:약국] 위치 알려줘")
@@ -14,14 +14,14 @@ train (t-fh522oxpdo7t13x78tomb35er) {
   last-modified (1576486106679)
 }
 train (t-fhqqvh2g25ohye2n51byo2vrd) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (강남역)[v:viv.geo.PlaceName] (치과)[v:Where:치과] 찾아볼래")
+  utterance ("[g:searchBasedonDestination] (강남역)[v:viv.geo.PlaceName] (치과)[v:Where:치과] 찾아볼래")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577537241299)
+  last-modified (1579422930536)
 }
 train (t-fk1mhuip53mlidtn6rerstosq) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (월요일)[v:halfpunchduo.medi.Weekday:월요일] (신촌)[v:viv.geo.PlaceName] (치과)[v:halfpunchduo.medi.Where:치과] 알려줄래요")
+  utterance ("[g:searchBasedonDestinationWeekday] (월요일)[v:Weekday:월요일] (신촌)[v:viv.geo.PlaceName] (치과)[v:Where:치과] 알려줄래요")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
-  last-modified (1577777319268)
+  last-modified (1579422930593)
 }
 train (t-fmzfrtwqxxt7hybfwe2pdxprp) {
   utterance ("[g:searchNearest] (심장)[v:Where:심장제세동기] 어디야")
@@ -34,7 +34,12 @@ train (t-fo8lcbqui87jgxsm5cwi4dfce) {
   last-modified (1578744556371)
 }
 train (t-fte02nt3y8y4uaa0gxefvy4dm) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 하는 (강남)[v:viv.geo.PlaceName] (약국)[v:halfpunchduo.medi.Where:약국] 찾아줘")
+  utterance ("[g:searchBasedonDestinationWeekday] (일요일)[v:Weekday:일요일]에 하는 (강남)[v:viv.geo.PlaceName] (약국)[v:Where:약국] 찾아줘")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
-  last-modified (1577776408396)
+  last-modified (1579422930896)
+}
+train (t-fzgcrj2iz527e6ri3kt1u5imb) {
+  utterance ("[g:searchBasedonDestinationTime] (보광초등학교)[v:geo.PlaceName] 근처 (저녁 8시)[v:time.DateTimeExpression]에 여는 (소아과)[v:Where:소아과] 알려줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579434581620)
 }

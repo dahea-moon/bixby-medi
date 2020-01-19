@@ -1,3 +1,8 @@
+train (t-53e98s2vmb0jq8h6diqp6zdaw) {
+  utterance ("[g:searchBasedonDestination] (카이스트)[v:geo.PlaceName] 근처 가까운 (수유실)[v:Where:수유실] 알려줘")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579436193493)
+}
 train (t-53xvt680t9jxxjpz3sg6ovxee) {
   utterance ("[g:searchNearest] (심장)[v:Where:심장제세동기] 알려달라고")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

@@ -1,5 +1,10 @@
+train (t-p9iur4n8wkpd4vdqdmq6b2da8) {
+  utterance ("[g:searchBasedonDestinationTime] (효자로)[v:geo.PlaceName] 근처 (오늘 저녁 7시)[v:time.DateTimeExpression]에 여는 (야간어린이병원)[v:Where:달빛어린이병원] 알려달라고")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579435435101)
+}
 train (t-psonng9u0gakjraqoyw7fhsim) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] (안과)[v:halfpunchduo.medi.Where:안과] 찾아봐")
+  utterance ("[g:searchNearest] (안과)[v:Where:안과] 찾아봐")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577777041476)
+  last-modified (1579422933531)
 }

@@ -3,6 +3,11 @@ train (t-b64jovi9pnnw9mqae4ahxm59x) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1578744828294)
 }
+train (t-b93aa8pke7y1o4t1d2dak32u2) {
+  utterance ("[g:searchBasedonDestination] (하남시청)[v:geo.PlaceName] 주위 열린 (소아과)[v:Where:소아과] 찾아봐")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579433915130)
+}
 train (t-bkq9bslzl1ocsyn2uy8uiqbkr) {
   utterance ("[g:searchBasedonDestination] (대전)[v:viv.geo.PlaceName] (응급실)[v:Where:응급실] 찾아줘")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
@@ -17,4 +22,9 @@ train (t-bpelyoqio17xihtkkti8fg453) {
   utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 어디지")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577773439635)
+}
+train (t-bt4nuivluct416ovmiubcgn9e) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] 가까운 (산부인과)[v:halfpunchduo.medi.Where:산부인과] 찾아줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1579434878157)
 }

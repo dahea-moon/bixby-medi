@@ -4,17 +4,17 @@ train (t-i6cb3i9tkjhbtwrj72s9yn9ta) {
   last-modified (1578744578364)
 }
 train (t-i70n1867qi122xltsm1xsotbf) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (강남)[v:viv.geo.PlaceName]에서 가까운 (보건소)[v:halfpunchduo.medi.Where:보건소] 알려줄래")
+  utterance ("[g:searchBasedonDestination] (강남)[v:viv.geo.PlaceName]에서 가까운 (보건소)[v:Where:보건소] 알려줄래")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577777342833)
+  last-modified (1579422931500)
 }
 train (t-int92o2ji129tkywnlrcecknk) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (강릉)[v:viv.geo.PlaceName] (약국)[v:halfpunchduo.medi.Where:약국] 알려줄래")
+  utterance ("[g:searchBasedonDestination] (강릉)[v:viv.geo.PlaceName] (약국)[v:Where:약국] 알려줄래")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577775013697)
+  last-modified (1579422931561)
 }
 train (t-isdrc86qavyygtnd89ml591tk) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (시흥)[v:viv.geo.PlaceName] (응급실)[v:halfpunchduo.medi.Where:응급실] 찾고싶어")
+  utterance ("[g:searchBasedonDestination] (시흥)[v:viv.geo.PlaceName] (응급실)[v:Where:응급실] 찾고싶어")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577538129291)
+  last-modified (1579422931629)
 }

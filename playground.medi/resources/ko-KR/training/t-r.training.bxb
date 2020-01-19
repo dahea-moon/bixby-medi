@@ -1,10 +1,15 @@
 train (t-rcn6vdue06dcl98igulcevch9) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 하는 (강남)[v:viv.geo.SubLocalityOneName] (항외과)[v:halfpunchduo.medi.Where:항외과] 있어?")
+  utterance ("[g:searchBasedonDestinationWeekday] (일요일)[v:Weekday:일요일]에 하는 (강남)[v:viv.geo.SubLocalityOneName] (항외과)[v:Where:항외과] 있어?")
   plan (dY7LigJBDEWvj/G1dOEwLvyEBhd+gA9ciQqzmHXZFe2gnZKu6gb/3jRjIYNjahHqnFwSDDDOzOV4LSXNbOmSnCwnWzIF+eAxfXVeXZotjCfrZKVTLCawkx+iszU3fL1Govr8R2VUEIYVV8mJXLI1SveOJWAW2dKJD0WZhqdcFy6f25yF1ej2ilZcsdcrMImxN34U/Xd52LjUXDjcdkIYR75mse/cX17fgz4aaKKFNj7QQRc9JVBWvydr4Lfq3nr82o+kzt8B)
-  last-modified (1577775457824)
+  last-modified (1579422933816)
+}
+train (t-rd0iiai9rvgzfjrx48p37rqbh) {
+  utterance ("[g:searchBasedonDestination] (수정로)[v:geo.PlaceName]에 있는 (정형외과)[v:Where:정형외과] 알려줄래")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579434133274)
 }
 train (t-rv6m29xipk9k7eklskf0arrwu) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] 근처에 (안과)[v:halfpunchduo.medi.Where:안과] 있어?")
+  utterance ("[g:searchNearest] 근처에 (안과)[v:Where:안과] 있어?")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577775799534)
+  last-modified (1579422933884)
 }

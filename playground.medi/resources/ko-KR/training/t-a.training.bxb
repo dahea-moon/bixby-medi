@@ -1,3 +1,8 @@
+train (t-a4jnulddgj4wzuqlgiqtq84rs) {
+  utterance ("[g:searchBasedonDestinationWeekday] (수요일)[v:Weekday:수요일]에 여는 (새말로)[v:geo.PlaceName] 주위 (정형외과)[v:Where:정형외과] 알려달라고")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579435528124)
+}
 train (t-ad18nzqdmx1frqfpaijwtax4u) {
   utterance ("[g:searchBasedonDestination] (숭실대입구역)[v:geo.PlaceName] (가정의학과)[v:Where:가정의학과] 알려줄래")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)

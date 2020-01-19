@@ -1,7 +1,7 @@
 train (t-l5dsepbj7j417re871di2gzsx) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (광명)[v:viv.geo.PlaceName]에 (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 여는 (약국)[v:halfpunchduo.medi.Where:약국] 찾아봐")
+  utterance ("[g:searchBasedonDestinationWeekday] (광명)[v:viv.geo.PlaceName]에 (일요일)[v:Weekday:일요일]에 여는 (약국)[v:Where:약국] 찾아봐")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
-  last-modified (1577776910374)
+  last-modified (1579422932378)
 }
 train (t-l6r4w7fgu9n56560br1l8r2m3) {
   utterance ("[g:searchBasedonDestinationTime] (오늘 저녁 10시)[v:time.DateTimeExpression] (교대역)[v:geo.PlaceName] (달빛어린이병원)[v:Where:달빛어린이병원] 좀 알려주라")
@@ -19,12 +19,7 @@ train (t-lgkeya1kiroemm5lnermhn0h1) {
   last-modified (1578744831785)
 }
 train (t-lt3svqt0px4hfboggl2e0xcad) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (연신내)[v:viv.geo.PlaceName] (내과)[v:halfpunchduo.medi.Where:내과] 알려줘")
+  utterance ("[g:searchBasedonDestination] (연신내)[v:viv.geo.PlaceName] (내과)[v:Where:내과] 알려줘")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577774935001)
-}
-train (t-lwapcocw3nap0flql613vxlmv) {
-  utterance ("[g:searchBasedonDestinationTime] (공덕역)[v:geo.PlaceName] (내일 저녁 8시)[v:time.DateTimeExpression] (약국)[v:Where:약국] 알려줘")
-  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
-  last-modified (1576483631179)
+  last-modified (1579422932588)
 }

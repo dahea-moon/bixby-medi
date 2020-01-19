@@ -1,3 +1,8 @@
+train (t-81744rvn7b0s0y1ldi736w9wl) {
+  utterance ("[g:searchNearest] 주위에 있는 (성형외과)[v:Where:성형외과] 보여줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1579435471096)
+}
 train (t-881ra1nx09a40jhjxxwpynmpb) {
   utterance ("[g:searchBasedonDestination] (마포구)[v:geo.SubLocalityOneName] (응급실)[v:Where:응급실] 어디있어")
   plan (dY67CsJAEEVvfNtaKFj4ARbp/AAfWIkKFtZrdjQDyaxkNwH/3lEJKmI3c86dB/oYpyY7X0tJUlu6OCfL8ZZMQT54TH+dV5ekC+PJOllpisUEdoLRb/aYUkEYVFzFF3Lx1ijdO5aAWc2WTnwoyiS85bpw+dzmLKxGd1e04or948akHvvjh7U/lKeNS0zG4bYTwrjmaxb7z33zxz/oIUIDTbTQRgdd7aEk+iAR8GRQ9qqbzxlN3gE=)
@@ -7,4 +12,9 @@ train (t-8hcrcv3hovcusudts9ek039ws) {
   utterance ("[g:searchNearest] 근처에 (심장)[v:Where:심장제세동기] 있어?")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1578744639365)
+}
+train (t-8y2qrb8j4tfd8710tt7k8yext) {
+  utterance ("[g:searchBasedonDestinationWeekday] (월요일)[v:Weekday:월요일]에 여는 (쌍문동)[v:geo.PlaceName] (신경외과)[v:Where:신경외과] 알려줘")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579433857927)
 }

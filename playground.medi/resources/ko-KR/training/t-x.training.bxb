@@ -1,0 +1,5 @@
+train (t-x3ea50n794a30w9ei4tww75cf) {
+  utterance ("[g:searchNearest] 지금 영업하고 있는 (큰 병원)[v:Where:종합병원] 찾아줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1579437023926)
+}

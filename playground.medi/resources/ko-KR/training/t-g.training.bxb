@@ -1,22 +1,32 @@
-train (t-g6okyzt8adhns0v2hr42sm5a3) {
-  utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세동기] 찾아줘")
-  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1578744563751)
-}
 train (t-g880u3wgshl7rdnh0s1ubgc8x) {
-  utterance ("[g:halfpunchduo.medi.searchNearest] (수유실)[v:halfpunchduo.medi.Where:수유실] 위치 알려줄래")
+  utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 위치 알려줄래")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
-  last-modified (1577773290054)
+  last-modified (1579422930946)
 }
 train (t-g950babahm8a7is6ntz4jyl4s) {
   utterance ("[g:searchBasedonDestinationWeekday] (금요일)[v:Weekday:금요일]에 여는 (동대문)[v:geo.PlaceName] (치과)[v:Where:치과] 알려주라")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1577544038140)
 }
+train (t-g9mu668leotguius5j94auzka) {
+  utterance ("[g:searchBasedonDestinationWeekday] (일요일)[v:Weekday:일요일]에 여는 (삼각산동)[v:geo.PlaceName] (약국)[v:Where:약국] 알려줘")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579434675255)
+}
+train (t-gdsiy13bs5tqjvrxzz6y49ab4) {
+  utterance ("[g:searchBasedonDestination] (국민대)[v:geo.PlaceName] 근처 (가정의학과)[v:Where:가정의학과] 좀 찾아봐")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579434582725)
+}
 train (t-gesra34k4e6mur3hpy95rbnoa) {
   utterance ("[g:searchBasedonDestinationTime] (역삼역)[v:geo.PlaceName] (오전10시)[v:time.DateTimeExpression] (약국)[v:Where:약국] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1576482263415)
+}
+train (t-ggcj77lt9tsltcm2q86bc6jiw) {
+  utterance ("[g:searchBasedonDestination] (갈마동)[v:geo.PlaceName] 주위에 있는 (요양원)[v:Where:요양원] 보여줘")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579436368653)
 }
 train (t-gqty9fpqmfg6efymrzhyyfpv4) {
   utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 어딘지 알려줘")

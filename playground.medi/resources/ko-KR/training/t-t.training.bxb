@@ -1,12 +1,12 @@
 train (t-t8k8qbyfnwmln8am2wzzdb7tg) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (광명)[v:viv.geo.PlaceName]에 (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (약국)[v:halfpunchduo.medi.Where:약국] 찾아볼래")
+  utterance ("[g:searchBasedonDestinationTime] (광명)[v:viv.geo.PlaceName]에 (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (약국)[v:Where:약국] 찾아볼래")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
-  last-modified (1577776930614)
+  last-modified (1579422933937)
 }
 train (t-t8p5yr0izlek6nzyqku1hqyam) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (광명)[v:viv.geo.PlaceName]에 (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 갈 수 있는 (약국)[v:halfpunchduo.medi.Where:약국] 보여줘")
+  utterance ("[g:searchBasedonDestinationWeekday] (광명)[v:viv.geo.PlaceName]에 (일요일)[v:Weekday:일요일]에 갈 수 있는 (약국)[v:Where:약국] 보여줘")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
-  last-modified (1577777850090)
+  last-modified (1579422933989)
 }
 train (t-tba9es55evnzjxbb7jp88svpz) {
   utterance ("[g:searchBasedonDestinationWeekday] (화요일)[v:Weekday:화요일] (서울대)[v:geo.PlaceName] (내과)[v:Where:내과] 찾아줄래")
@@ -14,7 +14,7 @@ train (t-tba9es55evnzjxbb7jp88svpz) {
   last-modified (1577542987856)
 }
 train (t-tbr26r0gbbdlqq8i972l3l52h) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (강남)[v:viv.geo.PlaceName]에 (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (약국)[v:halfpunchduo.medi.Where:약국] 알려줄래")
+  utterance ("[g:searchBasedonDestinationTime] (강남)[v:viv.geo.PlaceName]에 (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (약국)[v:Where:약국] 알려줄래")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
-  last-modified (1577776708750)
+  last-modified (1579422934095)
 }

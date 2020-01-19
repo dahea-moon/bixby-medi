@@ -30,7 +30,7 @@ module.exports.function = function searchBasedDestinationTime (destination, date
       }
     });
   
-    let nearests = [];
+  let nearests = [];
   if (target == 'AED') {
     response.forEach(function(aed){
       let info = {

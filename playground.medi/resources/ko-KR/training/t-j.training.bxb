@@ -3,3 +3,8 @@ train (t-jfsr9rj9wn5vj2tl59h98qti8) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1578744678793)
 }
+train (t-jmas4juk85jxsep5d3ix08nuu) {
+  utterance ("[g:searchBasedonDestinationWeekday] (수원역)[v:geo.PlaceName] 주위에 (토요일)[v:Weekday:토요일]에 여는 (정신과)[v:Where:정신과] 알려주라")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579435076725)
+}

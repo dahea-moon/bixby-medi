@@ -9,7 +9,7 @@ train (t-h92z3qw6ld9yw2z2ff7hlihnr) {
   last-modified (1577773494747)
 }
 train (t-hv0fwmo5iiis3tn1bzjva31pc) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (철산역)[v:viv.geo.PlaceName] (안과)[v:halfpunchduo.medi.Where:안과] 찾아봐")
+  utterance ("[g:searchBasedonDestination] (철산역)[v:viv.geo.PlaceName] (안과)[v:Where:안과] 찾아봐")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
-  last-modified (1577776521248)
+  last-modified (1579422931375)
 }

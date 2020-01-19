@@ -19,9 +19,9 @@ train (t-whxqls9u52ka16vyi2gbqikk7) {
   last-modified (1576486186171)
 }
 train (t-wnxa2zi9g3rc27kxhrw7o7owq) {
-  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (오늘 오후 12시)[v:viv.time.DateTimeExpression] (여의도)[v:viv.geo.PlaceName] (내과)[v:halfpunchduo.medi.Where:내과] 어디있냐고")
+  utterance ("[g:searchBasedonDestinationTime] (오늘 오후 12시)[v:viv.time.DateTimeExpression] (여의도)[v:viv.geo.PlaceName] (내과)[v:Where:내과] 어디있냐고")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
-  last-modified (1577549141948)
+  last-modified (1579422935096)
 }
 train (t-wo3z0f5vsmpzycoiennz2g1kv) {
   utterance ("[g:searchNearest] 근처에 영업하는 (안과)[v:Where:안과] 있어?")
