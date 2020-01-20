@@ -3,8 +3,28 @@ train (t-p9iur4n8wkpd4vdqdmq6b2da8) {
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1579435435101)
 }
+train (t-pnrg8ie90jbulhgsiyqu3eqq4) {
+  utterance ("[g:searchBasedonDestination] (보라매)[v:geo.PlaceName] (종합병원)[v:Where:종합병원] 어디있어")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579521224307)
+}
+train (t-pof1bxsdbbfranyybuicgxdyq) {
+  utterance ("[g:searchBasedonDestinationTime] (홍대)[v:geo.PlaceName] (아침 10시)[v:time.DateTimeExpression] (안과)[v:Where:안과] 찾아줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579446517689)
+}
+train (t-ps4u8km5rimwgppzk7xhu4oa9) {
+  utterance ("[g:searchBasedonDestination] (연대)[v:geo.PlaceName]에 열려있는 (이비인후과)[v:Where:이비인후과] 찾아줄래")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579519896884)
+}
 train (t-psonng9u0gakjraqoyw7fhsim) {
   utterance ("[g:searchNearest] (안과)[v:Where:안과] 찾아봐")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1579422933531)
+}
+train (t-puljvhhlfih23mit3kq7ap1wk) {
+  utterance ("[g:searchBasedonDestinationWeekday] (토요일)[v:Weekday:토요일]에 여는 (와부읍)[v:geo.PlaceName] (소아과)[v:Where:소아과] 찾아봐")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579519419783)
 }

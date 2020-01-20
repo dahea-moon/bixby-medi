@@ -28,3 +28,8 @@ train (t-bt4nuivluct416ovmiubcgn9e) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1579434878157)
 }
+train (t-bvn0ov0w1mnelhst1a4mfaph8) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (부평)[v:viv.geo.PlaceName]에 (밤 10시)[v:viv.time.DateTimeExpression]에 여는 (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 있어?")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579447565331)
+}

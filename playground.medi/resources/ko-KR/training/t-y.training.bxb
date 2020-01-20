@@ -13,3 +13,8 @@ train (t-yxlb8oymity5dkyi1pigloois) {
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1579422935454)
 }
+train (t-yzl0qmmft3knnpth37zzjquqv) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (전주역)[v:viv.geo.PlaceName] 근처에 (보건소)[v:halfpunchduo.medi.Where:보건소] 있나?")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579522990729)
+}

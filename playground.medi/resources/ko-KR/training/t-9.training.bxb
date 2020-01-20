@@ -38,6 +38,11 @@ train (t-9oxjhcxbpzfttuji5qlwv561k) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577775552320)
 }
+train (t-9p0cy5a36z35limxp5ljo2xso) {
+  utterance ("[g:searchBasedonDestinationTime] (아침 8시)[v:time.DateTimeExpression]에 여는 (노량진)[v:geo.PlaceName] 근처 (일반병원)[v:Where:일반병원] 있어?")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579521664631)
+}
 train (t-9qoizylskahlzrq1rnrobdkzt) {
   utterance ("[g:searchNearest] 근처 (심장)[v:Where:심장제세동기] 있어?")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

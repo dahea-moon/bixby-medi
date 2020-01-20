@@ -1,3 +1,8 @@
+train (t-53aop5wvye1idolx78sw6qt7t) {
+  utterance ("[g:searchBasedonDestination] (신도림역)[v:geo.PlaceName] 근처 (달빛어린이병원)[v:Where:달빛어린이병원] 알려줄래")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579446260327)
+}
 train (t-53e98s2vmb0jq8h6diqp6zdaw) {
   utterance ("[g:searchBasedonDestination] (카이스트)[v:geo.PlaceName] 근처 가까운 (수유실)[v:Where:수유실] 알려줘")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
@@ -7,6 +12,11 @@ train (t-53xvt680t9jxxjpz3sg6ovxee) {
   utterance ("[g:searchNearest] (심장)[v:Where:심장제세동기] 알려달라고")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1578744944583)
+}
+train (t-5bn8vdshhrca73okgvkt8ax35) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (토요일)[v:halfpunchduo.medi.Weekday:토요일]에도 하는 (마포구)[v:viv.geo.PlaceName] (안과)[v:halfpunchduo.medi.Where:안과] 찾아봐")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579522774647)
 }
 train (t-5f1oy3tzvt5fakqs0ix0hxx6h) {
   utterance ("[g:searchBasedonDestination] (오산)[v:geo.PlaceName]에서 (산부인과)[v:Where:산부인과] 알려달라고")
@@ -37,6 +47,11 @@ train (t-5nu1904b06busmvytfrgb92is) {
   utterance ("[g:searchBasedonDestinationTime] (저녁 8시)[v:viv.time.DateTimeExpression]에 갈 수 있는 (강남역)[v:viv.geo.PlaceName] (정형외과)[v:Where:정형외과] 보여줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1577777894790)
+}
+train (t-5s13iswnvkp3mnohd8kxv1mt6) {
+  utterance ("[g:halfpunchduo.medi.searchNearest] 제일 가까운 (성형외과)[v:halfpunchduo.medi.Where:성형외과] 보여줘")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1579522482902)
 }
 train (t-5sa1knqlhklqhtf8u2hdyw2c1) {
   utterance ("[g:searchNearest] 근처 (산부인과)[v:Where:산부인과] 알려줘봐")

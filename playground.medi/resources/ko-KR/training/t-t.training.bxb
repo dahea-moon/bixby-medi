@@ -1,3 +1,8 @@
+train (t-t4pwufzn6lfrvgvch2i95o0kn) {
+  utterance ("[g:searchBasedonDestinationTime] (아침 8시)[v:time.DateTimeExpression]에 여는 (노량진)[v:geo.PlaceName] 근처 (산부인과)[v:Where:산부인과] 있어?")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579521794073)
+}
 train (t-t8k8qbyfnwmln8am2wzzdb7tg) {
   utterance ("[g:searchBasedonDestinationTime] (광명)[v:viv.geo.PlaceName]에 (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (약국)[v:Where:약국] 찾아볼래")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
@@ -17,4 +22,14 @@ train (t-tbr26r0gbbdlqq8i972l3l52h) {
   utterance ("[g:searchBasedonDestinationTime] (강남)[v:viv.geo.PlaceName]에 (아침 7시)[v:viv.time.DateTimeExpression]에 여는 (약국)[v:Where:약국] 알려줄래")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1579422934095)
+}
+train (t-tkc07bp4q87hspv3xao4elucq) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (금천구)[v:viv.geo.PlaceName]에 연 (약국)[v:halfpunchduo.medi.Where:약국] 있니?")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579523109431)
+}
+train (t-tpknd855iip99rao7v6gsmxh6) {
+  utterance ("[g:searchBasedonDestination] (구로동)[v:geo.PlaceName] (응급실)[v:Where:응급실] 어디있어")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579446207399)
 }

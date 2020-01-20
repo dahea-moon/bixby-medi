@@ -3,6 +3,11 @@ train (t-d3u12mu7e8bt7twi373zjr4tq) {
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1579422930238)
 }
+train (t-d5tndz68hdeqxi0n6necfg3e9) {
+  utterance ("[g:searchBasedonDestinationWeekday] (공항동)[v:geo.PlaceName]에 (토요일)[v:Weekday:토요일]에 여는 (약국)[v:Where:약국] 보여줘봐")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579523061894)
+}
 train (t-d9y2c0gqsmr31hq4t9hc3axwx) {
   utterance ("[g:searchBasedonDestinationTime] (오전 10시)[v:time.DateTimeExpression]에 여는 (올림픽공원역)[v:geo.PlaceName] 근처 (내과)[v:Where:내과] 어딨어")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
@@ -12,6 +17,11 @@ train (t-dcna8xw8n1vpyo2utezvitoua) {
   utterance ("[g:searchBasedonDestination] (광명동)[v:geo.PlaceName] (달빛어린이병원)[v:Where:달빛어린이병원] 찾아줘")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
   last-modified (1576484415556)
+}
+train (t-ddmdqwgjsuk8xjwiymiwgupt5) {
+  utterance ("[g:searchBasedonDestinationTime] (연희동)[v:geo.PlaceName]에 (아침 7시)[v:time.DateTimeExpression]에 여는 (이비인후과)[v:Where:이비인후과] 있어?")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579522814401)
 }
 train (t-dmoorc0smtllsytqm3qbmiudl) {
   utterance ("[g:searchBasedonDestinationWeekday] (왕십리)[v:viv.geo.PlaceName]에서 (목요일)[v:Weekday:목요일]에 여는 (외과)[v:Where:외과] 어디있어")

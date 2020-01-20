@@ -1,3 +1,8 @@
+train (t-e09wo60zt98osb5czepwdgago) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (보건소)[v:halfpunchduo.medi.Where:보건소] (수원역)[v:geo.PlaceName] 가까운데서 찾아볼래?")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579522939088)
+}
 train (t-e5inll2lpyevqn0r2c22tdj75) {
   utterance ("[g:searchNearest] (달빛어린이병원)[v:Where:달빛어린이병원] 알려줘")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
@@ -7,6 +12,11 @@ train (t-ea4dih3temtb28sim7zn2tvhw) {
   utterance ("[g:searchBasedonDestination] (다산동)[v:geo.PlaceName] 주위에 있는 (달빛 어린이병원)[v:Where:달빛어린이병원] 띄어줘")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
   last-modified (1579434449820)
+}
+train (t-ee71962fvyoh8e4bsbva7y1vr) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (상명대)[v:viv.geo.PlaceName]에 (밤 9시)[v:viv.time.DateTimeExpression] (치과)[v:halfpunchduo.medi.Where:치과] 알려줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579520086934)
 }
 train (t-eqf1fusnym0eae9w2nm3qzigr) {
   utterance ("[g:searchBasedonDestination] (석관동)[v:geo.PlaceName]에 열려있는 (치과)[v:Where:치과] 찾아줘")

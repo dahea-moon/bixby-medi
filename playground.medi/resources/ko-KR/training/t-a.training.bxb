@@ -3,6 +3,11 @@ train (t-a4jnulddgj4wzuqlgiqtq84rs) {
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
   last-modified (1579435528124)
 }
+train (t-a4xygrh95qgbai0xdoltb6mg1) {
+  utterance ("[g:searchBasedonDestinationTime] (밤 10시)[v:time.DateTimeExpression]에 하는 (영등포)[v:geo.PlaceName] (약국)[v:Where:약국] 찾아봐")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579521365073)
+}
 train (t-ad18nzqdmx1frqfpaijwtax4u) {
   utterance ("[g:searchBasedonDestination] (숭실대입구역)[v:geo.PlaceName] (가정의학과)[v:Where:가정의학과] 알려줄래")
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)

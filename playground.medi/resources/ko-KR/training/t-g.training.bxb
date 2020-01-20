@@ -1,3 +1,8 @@
+train (t-g41fm1355r7gcj7nao7ym4jzu) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (춘천역)[v:geo.PlaceName] 주위에 지금 영업하는 (약국)[v:halfpunchduo.medi.Where:약국] 알려주세요")
+  plan (bY5BC4JAEIWfWda1iIL6D/sjwq4iEXQedGoXdFfcVTr12xslTzaned97zDxscNJUPZvOFrrsnKq5NCpjatkHDzX3vHiFvpDn0tlUUsZSMM7eTc04zvMPzS1j15tevdipjITmztiA/cRu7F3Vc15RwTj8ox/CduIjGM7gPKAgf1VKgYcC13cjxb3UwRoRFoixxAqJKIiOfnrYMJJp4jGdAF8=)
+  last-modified (1579523898146)
+}
 train (t-g880u3wgshl7rdnh0s1ubgc8x) {
   utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 위치 알려줄래")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

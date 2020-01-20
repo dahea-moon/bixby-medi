@@ -1,3 +1,8 @@
+train (t-17gbpi25r9dd9e1fd6t6qt0ay) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestination] (연신내)[v:viv.geo.PlaceName] 근처에 (수유실)[v:halfpunchduo.medi.Where:수유실] 있어?")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579519839069)
+}
 train (t-1dm8ma6nbwopetn5gcuwdfejf) {
   utterance ("[g:searchBasedonDestinationTime] (아침 8시)[v:viv.time.DateTimeExpression]에 여는 (오리로)[v:viv.geo.PlaceName] (내과)[v:Where:내과] 찾아볼래")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
@@ -12,4 +17,9 @@ train (t-1uou01fcmroixuh3ks389uwdb) {
   utterance ("[g:searchBasedonDestinationTime] (오후2시)[v:time.DateTimeExpression] (청담역)[v:geo.PlaceName] (피부과)[v:Where:피부과] 찾아줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1577548215866)
+}
+train (t-1w68lvvw45swcmfuqheisph1o) {
+  utterance ("[g:searchBasedonDestination] (은행동)[v:geo.PlaceName]에 영업중인 (내과)[v:Where:내과] 있어?")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1579523154009)
 }

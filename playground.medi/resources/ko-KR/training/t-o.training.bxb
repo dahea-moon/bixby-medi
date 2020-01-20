@@ -23,3 +23,8 @@ train (t-oxvthrttb3hodfoc7j21peduc) {
   plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
   last-modified (1579437345135)
 }
+train (t-ozeml86b9pz2rgsl48x0pftl3) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (밤 10시)[v:time.DateTimeExpression]까지 하는 (서울대입구)[v:viv.geo.PlaceName] (안과)[v:halfpunchduo.medi.Where:안과] 보여줄래")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579522698780)
+}

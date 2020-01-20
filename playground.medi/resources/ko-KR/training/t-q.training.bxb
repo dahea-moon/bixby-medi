@@ -3,8 +3,28 @@ train (t-q60ai5kf2im9wxjbl6azeet18) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577536567682)
 }
+train (t-q6riya2gepk9t9ubzick8eb7u) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (서공주)[v:viv.geo.PlaceName] (밤 10시)[v:viv.time.DateTimeExpression]에 하는 (달빛어린이병원)[v:halfpunchduo.medi.Where:달빛어린이병원] 찾아줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579523947506)
+}
+train (t-qg4dv7gtubemww5092f0ek4y6) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationTime] (천왕동 주위)[v:viv.geo.PlaceName]에 (밤 10시)[v:time.DateTimeExpression]까지 하는 (소아과)[v:halfpunchduo.medi.Where:소아과] 알려주세요")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579521897722)
+}
 train (t-qg56cyp40a498rd6zbxpacz6q) {
   utterance ("[g:searchNearest] (수유실)[v:Where:수유실] 알려주세요")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1577536592306)
+}
+train (t-qk49d9c02decbh82nc2y79zs0) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (토요일)[v:halfpunchduo.medi.Weekday:토요일]에 여는 (당산역)[v:viv.geo.PlaceName] (피부과)[v:halfpunchduo.medi.Where:피부과] 찾아줘")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579521373128)
+}
+train (t-qmp0e82mqgu3pm014g1qjnl6u) {
+  utterance ("[g:searchBasedonDestinationWeekday] (인천대공원)[v:geo.PlaceName] 근처에 (일요일)[v:Weekday:일요일]도 하는 (외과)[v:Where:외과] 좀 찾아볼래")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579523819197)
 }

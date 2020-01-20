@@ -13,6 +13,11 @@ train (t-76h3u0jm4v0jzy6u3ops823a3) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1578744909465)
 }
+train (t-79y11s0282r4ev7m9fc4qibwe) {
+  utterance ("[g:searchBasedonDestinationTime] (저녁 8시)[v:time.DateTimeExpression]까지 하는 (여의도)[v:geo.PlaceName] (내과)[v:Where:내과] 알려줄래")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579447530424)
+}
 train (t-7mlsfbjsmyi3lp0kb3rtmrxzo) {
   utterance ("[g:searchBasedonDestinationWeekday] (토요일)[v:Weekday:토요일]에 여는 (반포동)[v:geo.PlaceName] (외과)[v:Where:외과] 찾아줘")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)

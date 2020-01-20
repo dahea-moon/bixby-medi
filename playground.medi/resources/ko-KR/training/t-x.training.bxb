@@ -3,3 +3,8 @@ train (t-x3ea50n794a30w9ei4tww75cf) {
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
   last-modified (1579437023926)
 }
+train (t-xopp59e90yqxp3dbxchtm8adk) {
+  utterance ("[g:searchBasedonDestinationTime] (밤 10시)[v:time.DateTimeExpression]에 하는 (당진역)[v:geo.PlaceName] (응급실)[v:Where:응급실] 찾아줘")
+  plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
+  last-modified (1579524023115)
+}

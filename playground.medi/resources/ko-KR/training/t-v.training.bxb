@@ -1,3 +1,8 @@
+train (t-v0f4ghy9sr85a4gpx16ghocqn) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (일요일)[v:halfpunchduo.medi.Weekday:일요일]에 하는 (안양1번가)[v:geo.PlaceName] (정형외과)[v:halfpunchduo.medi.Where:정형외과] 좀 찾아줘")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579523223379)
+}
 train (t-v46nwa6nequ9qvk55gexudniw) {
   utterance ("[g:searchNearest] (심장)[v:Where:심장제세동기] 찾아줘")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

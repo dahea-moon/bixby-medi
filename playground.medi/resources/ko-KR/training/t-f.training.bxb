@@ -1,3 +1,8 @@
+train (t-f16j6pyhypzr1177ghdgxf4ck) {
+  utterance ("[g:searchNearest] 주위에서 제일 가까운 (한의원)[v:Where:한의원] 찾아")
+  plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)
+  last-modified (1579522125414)
+}
 train (t-f19hw7i2pakadx9mnxvrsn2fi) {
   utterance ("[g:searchBasedonDestinationWeekday] (망원동)[v:viv.geo.PlaceName]에서 (수요일)[v:Weekday:수요일]에 여는 (신경외과)[v:Where:신경외과] 찾아줘")
   plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
@@ -42,4 +47,9 @@ train (t-fzgcrj2iz527e6ri3kt1u5imb) {
   utterance ("[g:searchBasedonDestinationTime] (보광초등학교)[v:geo.PlaceName] 근처 (저녁 8시)[v:time.DateTimeExpression]에 여는 (소아과)[v:Where:소아과] 알려줘")
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1579434581620)
+}
+train (t-fzh2rvxnrbhqvtq1a1tqe10w2) {
+  utterance ("[g:halfpunchduo.medi.searchBasedonDestinationWeekday] (광화문)[v:viv.geo.PlaceName]에 (일요일)[v:halfpunchduo.medi.Weekday:일요일] 여는 (비뇨기과)[v:halfpunchduo.medi.Where:비뇨기과] 있을까?")
+  plan (bYzLCsIwEEVvtT62iij6EQF/QVyX4sb1kIwmWBNp2oAbv93UmlU7WQz3nDvBEgdN1e3VWqlV68STlREFU82+8TgOnY9O6hN5Vs6eY8tYaoyzV+aHojf2w5OkdiNKc81YBxPEnZ0oKNLSGdtgk9iFvasClxVJxnaMfgirxH+g+wYLZJhgihwzzGNCzN3rc4Z+0s7/7dj7Ag==)
+  last-modified (1579519966631)
 }
