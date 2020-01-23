@@ -1,6 +1,6 @@
 capsule {
   id (halfpunchduo.medi)
-  version (0.4.0)
+  version (0.5.0)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
@@ -17,9 +17,6 @@ capsule {
     section (Local)
   }
   capsule-imports{
-    import (viv.core) {
-      as (core)
-    }
     import (viv.entity) {
       as (entity)
       version (4.0.2)
