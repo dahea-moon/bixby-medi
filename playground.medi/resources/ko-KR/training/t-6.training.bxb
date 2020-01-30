@@ -3,6 +3,11 @@ train (t-62qg31liu8qnymz0y5nyojt8o) {
   plan (bY7NCsIwEISnWn+uiijoO+QhpF5LEcHz0q4m0CalSYsnn91tsCfd0843w+5gjaOm+tH2ttRV71TDlVE5U8c+eKhfz4tX6jN5rpzNJGUsBePszTSMw2/+rrljbAczqCc7lZPQwhkbsJvYlb2rBy5qKhn7f/RN2Ew8gvEMTiMK8ldlFHgscHm1UtxLHayQYIY5UiywFAXRyVePGyKZJo3pmPsA)
   last-modified (1578744908864)
 }
+train (t-65yh5b7b7qqkdzzzw6g0n84sh) {
+  utterance ("[g:searchBasedonDestination] (구룡역)[v:geo.PlaceName]에서 (심장 제세동기)[v:Where:심장제세동기] 찾아줘")
+  plan (bYy9DgIhEIQHz59aYzTxESx4CGN9udhYb2AVEgRzcJQ+u4hedW41882XxQoHQ+72HLwyegjywdrKlqnnmCKO0y2WTZkTRdbBn4tlPSUbPPZT92q4Z2yyzfLOQbZUaBesT9iO7MIxuMydI8XY/aMvwnrkFXzeYAmBGRrMsSgZpYlfE0Dt32uqV4w3)
+  last-modified (1580366593727)
+}
 train (t-6c7aejqv17ppeonqymgypwj5l) {
   utterance ("[g:searchNearest] (심장제세동기)[v:Where:심장제세동기] 찾아봐")
   plan (Y2BmkMpIzEkrKM1LzkgpzdfLTU3J1PNLTSxKLS4pZpDHlCsGyiVnQFUwiGMqCM9ILUplYGJgBGIGIMnIAAJQPgA=)

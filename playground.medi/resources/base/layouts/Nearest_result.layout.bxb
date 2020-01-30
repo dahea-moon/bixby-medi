@@ -79,7 +79,7 @@ layout-macro-def (nearest_result) {
         } 
         if (exists(info.manager)) {
           paragraph {
-              value ("관리자 전화번호: #{value(info.manager)}")
+              value ("관리자: #{value(info.manager)}")
             }
         }
         if (exists(info.open) and exists(info.close)) {
