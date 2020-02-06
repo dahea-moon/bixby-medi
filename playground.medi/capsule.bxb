@@ -1,6 +1,6 @@
 capsule {
   id (halfpunchduo.medi)
-  version (0.6.0)
+  version (0.7.0)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
