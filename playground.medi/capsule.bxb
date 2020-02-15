@@ -1,6 +1,6 @@
 capsule {
   id (halfpunchduo.medi)
-  version (0.7.0)
+  version (0.7.1)
   format (3)
   targets {
     target (bixby-mobile-ko-KR)
@@ -10,7 +10,7 @@ capsule {
       allow (KR)
     }
   }
-  runtime-version (2) {
+  runtime-version (3) {
   }
   store-sections{
     section (HealthAndFitness)
@@ -19,18 +19,18 @@ capsule {
   capsule-imports{
     import (viv.entity) {
       as (entity)
-      version (4.0.2)
+      version (4.0.14)
     }
     import (viv.time) {
       as (time)
-      version (3.1.23)
+      version (3.1.48)
     }
     import (viv.geo) {
       as (geo)
-      version (9.24.14)
+      version (9.26.1)
     }
   }
   permissions {
-    user-profile-access
+    device-location-access
   }
 }
