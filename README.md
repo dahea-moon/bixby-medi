@@ -2,7 +2,7 @@
 
 created by 문다혜 @dahea-moon, 최솔지 @soulgchoi
 
-**Back-end**: Django + DRF,  **Front-end**: Bixby,  **Deploy**: Bixby (예정)
+**Back-end**: Django + DRF,  **Front-end**: Bixby,  **Deploy**: Bixby
 
 
 
